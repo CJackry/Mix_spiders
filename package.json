@@ -1,0 +1,7 @@
+{
+  "name": "Mix_spiders",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsdom": "^16.2.2"
+  }
+}
